@@ -1,5 +1,5 @@
 
-| Home  | [About me](../aboutme.md) | Publications | 
+| Home  | [About me](../just-a-site/aboutme.md) | Publications | 
 | ------------- | ------------- | ------------- |
 
 
