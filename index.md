@@ -5,7 +5,7 @@ Bioinformatics Centre, Bose Institute<br/>
 Machine Learning, RNA informatics, Next-Gen Sequencing Data Analysis, Systems
 Biology, Biological Networks, Data Mining, Mathematical Modeling<br/>
 
-<h2> My Publications </h2><br/>
+<h2> My Publications </h2>
 
 * **Maji, R. K.**, Khatua, S., & Ghosh, Z.. \A supervised ensemble approach for
 sensitive microRNA target prediction." *IEEE/ACM transactions
