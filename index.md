@@ -1,5 +1,5 @@
 
-| Home  | [About me](../blob/master/LICENSE) | Publications | 
+| Home  | [About me](../aboutme.md) | Publications | 
 | ------------- | ------------- | ------------- |
 
 
