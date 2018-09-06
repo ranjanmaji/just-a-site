@@ -1,6 +1,6 @@
 
 | Home  | [About me](../just-a-site/aboutme.md) | Publications | 
-| ------------- | ------------- | ------------- |
+
 
 
 <h1>Ranjan Kumar Maji</h1>
