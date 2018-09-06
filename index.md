@@ -1,3 +1,8 @@
-*Ranjan Kumar Maji*
+**Ranjan Kumar Maji**<br/>
+Bioinformatics Centre, Bose Institute
 
-<h1>
+
+**Research Interests**
+
+Machine Learning, RNA informatics, Next-Gen Sequencing Data Analysis, Systems
+Biology, Biological Networks, Data Mining, Mathematical Modeling
