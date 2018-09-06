@@ -1,9 +1,9 @@
 <h1>Ranjan Kumar Maji</h1>
-Bioinformatics Centre, Bose Institute
+Bioinformatics Centre, Bose Institute<br/>
 
-<h2>My Research Interests</h2><br/>
+<h2>My Research Interests</h2>
 Machine Learning, RNA informatics, Next-Gen Sequencing Data Analysis, Systems
-Biology, Biological Networks, Data Mining, Mathematical Modeling
+Biology, Biological Networks, Data Mining, Mathematical Modeling<br/>
 
 <h2> My Publications </h2><br/>
 
