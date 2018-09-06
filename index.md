@@ -1,3 +1,8 @@
+
+| Home  | [About me](../blob/master/LICENSE) | Publications | 
+| ------------- | ------------- | ------------- |
+
+
 <h1>Ranjan Kumar Maji</h1>
 Bioinformatics Centre, Bose Institute<br/>
 
