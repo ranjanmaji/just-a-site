@@ -1,6 +1,6 @@
 
 
-<h1>Ranjan Kumar Maji</h1>
+<h2>Ranjan Kumar Maji</h2>
 Bioinformatics Centre, Bose Institute<br/>
 
 <h2>My Research Interests</h2>
