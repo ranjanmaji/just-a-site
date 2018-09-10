@@ -32,8 +32,8 @@ analysis." BMC bioinformatics, 15(1), 167, 2014.<br/><br/>
 * **Maji, R. K.**, Sarkar, A., Saha, S., & Ghosh, Z.. "piRNAQuest: searching the
 piRNAome for silencers." BMC genomics, 15(1), 555, 2014.<br/><br/>
 * Chakraborty, S., Deb, A., **Maji, R. K.**, Saha, S., & Ghosh, Z., "LncRBase: an
-enriched resource for lncRNA information." *PloS ONE*, 9(9), e108010, 2014.
-* Chakraborty, B., Maji, **R. K.**, & Ghosh, D. (2011). "An object oriented
+enriched resource for lncRNA information." *PloS ONE*, 9(9), e108010, 2014.<br/><br/>
+* Chakraborty, B., **Maji, R. K.**, & Ghosh, D. (2011). "An object oriented
 programming platform for ontology based KMS." Journal of Computational
 Methods in Sciences and Engineering, 11(s1), 139-148.<br/><br/>
 * Chakraborty, B., **Maji, R. K.**, Ghosh, D., Garnaik, S., & Debnath, N. (2010,
