@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My CV
+title: My Publications
 ---
 <h2> My Publications </h2>
 
