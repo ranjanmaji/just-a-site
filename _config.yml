@@ -9,3 +9,4 @@
 
 name: Ranjan K. Maji
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
