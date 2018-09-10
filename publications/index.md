@@ -4,10 +4,10 @@ title: My Publications
 ---
 <h2> My Publications </h2>
 
-* **Maji, R. K.**, Khatua, S., & Ghosh, Z.. \A supervised ensemble approach for
+* **Maji, R. K.**, Khatua, S., & Ghosh, Z.. "A supervised ensemble approach for
 sensitive microRNA target prediction." *IEEE/ACM transactions
 on computational biology and bioinformatics*, 2018.<br/><br/>
-* **Maji, R. K.**, Khatua, S., & Ghosh, Z.. \An ensemble based approach towards
+* **Maji, R. K.**, Khatua, S., & Ghosh, Z.. "An ensemble based approach towards
 sensitive miRNA target prediction." Accepted in 5th International Doctoral
 Symposium on Advanced Computing and Systems for Security Springer, 2018.<br/><br/>
 * Parida, S., Chakraborty, S., **Maji, R. K.**, & Ghosh, Z.. \Elucidating the gene
