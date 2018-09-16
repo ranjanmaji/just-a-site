@@ -7,7 +7,6 @@ title: My Publications
 * **Maji, R. K.**, Khatua, S., & Ghosh, Z.. "A supervised ensemble approach for
 sensitive microRNA target prediction." *IEEE/ACM transactions
 on computational biology and bioinformatics*, 2018.<br/><br/>
-
 * Parida, S., Chakraborty, S., **Maji, R. K.**, & Ghosh, Z.. "Elucidating the gene
 regulatory networks modulating cancer stem cells and non-stem cancer cells in
 high grade serous ovarian cancer." *Elsevier Genomics*, 2018.<br/><br/>
