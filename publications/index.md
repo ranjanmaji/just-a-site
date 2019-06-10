@@ -4,6 +4,8 @@ title: My Publications
 ---
 <h2> My Publications </h2>
 
+* Mondal S., **Maji R. K.**, Ghosh, Z., Khatua, S., "ParStream-seq: An improved method of handling next generation sequence data." *Elsevier Genimics*, 2018.<br><br>
+
 * **Maji, R. K.**, Khatua, S., & Ghosh, Z.. "A supervised ensemble approach for
 sensitive microRNA target prediction." *IEEE/ACM transactions
 on computational biology and bioinformatics*, 2018.<br/><br/>
