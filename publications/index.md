@@ -15,7 +15,7 @@ regulators of a susceptible tomato cultivar to early blight disease." *DNA Resea
 
 * Sen, K., Sarkar, A., **Maji, R. K.**, Ghosh, Z., Gupta, S., & Ghosh, T. C., "Deciphering the cross-talking of human competitive endogenous RNAs in K562 chronic myelogenous leukemia cell line." *Molecular BioSystems*, 2016.<br>
 
-* Kumar, M., Sahu, S.K., Kumar, R., Subuddhi, A., **Maji, R.K.**, Jana, K., Gupta, P., Raffetseder, J., Lerm, M., Ghosh, Z. and van Loo, G., "MicroRNA let-7 modulates the immune response to Mycobacterium tuberculosis infection via control of A20, an inhibitor of the NF-?ß pathway." Cell host & microbe, 2015.<br>
+* Kumar, M., Sahu, S.K., Kumar, R., Subuddhi, A., **Maji, R.K.**, Jana, K., Gupta, P., Raffetseder, J., Lerm, M., Ghosh, Z. and van Loo, G., "MicroRNA let-7 modulates the immune response to Mycobacterium tuberculosis infection via control of A20, an inhibitor of the NF-?ß pathway." *Cell Host & Microbe*, 2015.<br>
 
 * **Maji, R. K.**, Sarkar, A., Khatua, S., Dasgupta, S., & Ghosh, Z.. "PVT: an efficient computational procedure to speed up next-generation sequence analysis." *BMC bioinformatics*, 2014.<br>
 
