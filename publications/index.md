@@ -4,11 +4,11 @@ title: My Publications
 ---
 <h2> My Publications </h2>
 
-* Mondal S., **Maji R. K.**, Ghosh, Z., Khatua, S., "ParStream-seq: An improved method of handling next generation sequence data." *Elsevier Genimics*, 2018.<br><br>
+* Mondal S., **Maji R. K.**, Ghosh, Z., Khatua, S., "ParStream-seq: An improved method of handling next generation sequence data." *Elsevier Genimics*, 2018.<br>
 
-* **Maji, R. K.**, Khatua, S., & Ghosh, Z.. "A supervised ensemble approach for sensitive microRNA target prediction." *IEEE/ACM transactions on computational biology and bioinformatics*, 2018.<br><br>
+* **Maji, R. K.**, Khatua, S., & Ghosh, Z.. "A supervised ensemble approach for sensitive microRNA target prediction." *IEEE/ACM transactions on computational biology and bioinformatics*, 2018.<br>
 
-* Parida, S., Chakraborty, S., **Maji, R. K.**, & Ghosh, Z.. "Elucidating the gene regulatory networks modulating cancer stem cells and non-stem cancer cells in high grade serous ovarian cancer." *Elsevier Genomics*, 2018.<br><br>
+* Parida, S., Chakraborty, S., **Maji, R. K.**, & Ghosh, Z.. "Elucidating the gene regulatory networks modulating cancer stem cells and non-stem cancer cells in high grade serous ovarian cancer." *Elsevier Genomics*, 2018.<br>
 
 * Sarkar, D., **Maji, R. K.**, Dey, S., Sarkar, A., Ghosh, Z., & Kundu, P.,
 "Integrated miRNA and mRNA expression profiling reveals the response
