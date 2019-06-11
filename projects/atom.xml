@@ -8,7 +8,7 @@ layout: feed
  <link href="http://ranjanmaji.github.io/just-a-site/projects/atom.xml" rel="self"/>
  <link href="http://ranjanmaji.github.io/just-a-site/projects"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://ranjanmaji.github.io/just-a-site/blog</id>
+ <id>http://ranjanmaji.github.io/just-a-site/projects</id>
  <author>
    <name>Ranjan K. Maji</name>
    <email>ranjanmaji@gmail.com</email>
