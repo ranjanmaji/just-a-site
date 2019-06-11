@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 title: "Maji, Project piRNAQuest"
 date: 2018-09-10
 ---
