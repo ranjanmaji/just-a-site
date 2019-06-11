@@ -6,6 +6,7 @@ title: My Projects
 	<ul class="project">
 
 	  {% for post in site.project %}
+	  	<li>check</li>
 	    <li><span>{{ post.date | date_to_string }}</span> » <a href="/just-a-site{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul>
