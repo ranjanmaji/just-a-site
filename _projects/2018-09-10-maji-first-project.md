@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Maji, Project JustASite"
+title: "Maji, Project piRNAQuest"
 date: 2018-09-10
 ---
 
