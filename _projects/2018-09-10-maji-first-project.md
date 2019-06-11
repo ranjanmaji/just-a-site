@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: "Maji, Project JustASite"
 date: 2018-09-10
 ---

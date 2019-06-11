@@ -3,9 +3,9 @@ layout: default
 title: My Projects
 ---
 	<h2>{{ page.title }}</h2>
-	<ul class="project">
+	<ul class="projects">
 
-	  {% for post in site.project %}
+	  {% for post in site.projects %}
 	  	<li>check</li>
 	    <li><span>{{ post.date | date_to_string }}</span> » <a href="/just-a-site{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
